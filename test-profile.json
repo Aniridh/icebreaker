@@ -1,0 +1,73 @@
+{
+  "name": "Sarah Chen",
+  "title": "Senior Product Manager",
+  "bio": "Passionate product manager with 8+ years of experience building fintech products. Led teams at Google and Stripe, focusing on payment infrastructure and mobile experiences. Stanford MBA with a CS background from UC Berkeley.",
+  "skills": ["Product Strategy", "Data Analysis", "User Research", "A/B Testing", "Fintech", "API Design", "Mobile Payments", "User Experience"],
+  "experience": [
+    {
+      "company": "Stripe",
+      "title": "Senior Product Manager",
+      "duration": "2022-Present",
+      "description": "Leading payment infrastructure products for global merchants. Launched new API features that increased developer adoption by 40%. Managed cross-functional teams of 15+ engineers and designers.",
+      "skills": ["Product Strategy", "Fintech", "API Design"],
+      "startYear": 2022,
+      "industry": "Fintech"
+    },
+    {
+      "company": "Google",
+      "title": "Product Manager",
+      "duration": "2019-2022",
+      "description": "Managed Google Pay features for mobile payments. Led A/B testing initiatives that improved user engagement by 25%. Collaborated with Android and iOS teams.",
+      "skills": ["Mobile Payments", "User Experience"],
+      "startYear": 2019,
+      "endYear": 2022,
+      "industry": "Technology"
+    },
+    {
+      "company": "McKinsey & Company",
+      "title": "Business Analyst",
+      "duration": "2017-2019",
+      "description": "Consulted for Fortune 500 companies on digital transformation strategies. Specialized in fintech and payments industry analysis.",
+      "skills": ["Strategy Consulting", "Financial Analysis"],
+      "startYear": 2017,
+      "endYear": 2019,
+      "industry": "Consulting"
+    }
+  ],
+  "education": [
+    {
+      "school": "Stanford University",
+      "degree": "MBA",
+      "field": "Business Administration",
+      "startYear": "2015",
+      "endYear": "2017"
+    },
+    {
+      "school": "UC Berkeley",
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
+      "startYear": "2011",
+      "endYear": "2015"
+    }
+  ],
+  "posts": [],
+  "activity": {
+    "recentComments": [],
+    "frequentHashtags": [],
+    "engagementPatterns": []
+  },
+  "interests": {
+    "industries": ["Fintech", "Technology", "Payments"],
+    "technologies": ["APIs", "Mobile Development", "Data Analytics"],
+    "causes": [],
+    "hobbies": [],
+    "professionalInterests": ["Product Strategy", "User Experience", "Fintech Innovation"]
+  },
+  "socialSignals": {
+    "groups": [],
+    "events": [],
+    "certifications": [],
+    "volunteerWork": [],
+    "courses": []
+  }
+}
