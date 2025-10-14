@@ -4,8 +4,8 @@
  */
 import express from 'express'
 import multer from 'multer'
-import { ScannerService } from '../services/scannerService.js'
-import { ContactService } from '../services/contactService.js'
+import { ScannerService } from '../../lib/services/scannerService.js'
+import { ContactService } from '../../lib/services/contactService.js'
 
 const router = express.Router()
 

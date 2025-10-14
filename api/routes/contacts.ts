@@ -3,7 +3,7 @@
  * RESTful endpoints for contact management with local storage
  */
 import express from 'express'
-import { ContactService, Contact, Interaction, Meeting } from '../services/contactService.js'
+import { ContactService, Contact, Interaction, Meeting } from '../../lib/services/contactService.js'
 
 const router = express.Router()
 

@@ -19,7 +19,7 @@ import {
   Camera
 } from 'lucide-react'
 import { ContactCard } from '../components/ContactCard'
-import { Contact } from '../../api/services/contactService'
+import { Contact } from '../../lib/services/contactService'
 import { toast } from 'sonner'
 
 

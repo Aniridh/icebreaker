@@ -4,7 +4,7 @@
  */
 import React from 'react'
 import { User, Building2, MapPin, Calendar, MessageCircle, Phone, Mail } from 'lucide-react'
-import { Contact } from '../../api/services/contactService'
+import { Contact } from '../../lib/services/contactService'
 
 interface ContactCardProps {
   contact: Contact

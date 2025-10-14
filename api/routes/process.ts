@@ -3,7 +3,7 @@
  * Handles LinkedIn profile analysis
  */
 import { Router, type Request, type Response } from 'express'
-import { processProfileUrls } from '../services/profileProcessor.js'
+import { processProfileUrls } from '../../lib/services/profileProcessor.js'
 
 const router = Router()
 

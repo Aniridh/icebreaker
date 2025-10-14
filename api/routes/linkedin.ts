@@ -3,8 +3,8 @@
  * Uses web scraping to extract profile data from LinkedIn URLs
  */
 import express from 'express'
-import { scrapeLinkedInProfile } from '../services/scrapers/linkedinScraper.js'
-import { generateIcebreakers } from '../services/aiService.js'
+import { scrapeLinkedInProfile } from '../../lib/services/scrapers/linkedinScraper.js'
+import { generateIcebreakers } from '../../lib/services/aiService.js'
 
 const router = express.Router()
 
@@ -171,7 +171,6 @@ router.post('/analyze', async (req, res) => {
         skills
       },
       icebreakers: result.icebreakers,
-      source: result.source || 'gemini-rag',
       summary: result.summary
     })
 

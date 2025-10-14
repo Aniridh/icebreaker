@@ -24,7 +24,7 @@ export const AnimatedBackground = ({
       transition: {
         duration: 10,
         repeat: Infinity,
-        ease: "linear"
+        ease: "linear" as const
       }
     }
   }
@@ -39,7 +39,7 @@ export const AnimatedBackground = ({
       transition: {
         duration: 8,
         repeat: Infinity,
-        ease: "easeInOut"
+        ease: "easeInOut" as const
       }
     }
   }
